@@ -1,4 +1,3 @@
-#Formação Inteligência Artificial e Machine Learning - Fernando Amaral
 
 #instala pacote
 install.packages("sets", dependencies=T)
