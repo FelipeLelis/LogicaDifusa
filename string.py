@@ -1,8 +1,5 @@
 from fuzzywuzzy import fuzz
 
-# Roberto Farias Dias
-# Roberto F. Dias
-
 # Similaridade da string em ordem
 fuzz.ratio('Apple Inc.', 'Apple')
 
